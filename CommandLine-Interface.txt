@@ -1,0 +1,9 @@
+aws ls -> lista todos os comandos que podemos utilizar
+aws --version -> Validar a versão do instalador
+aws configure -> Uma forma rapida de realizar as configurações de seu AWS CLI installation
+aws s3 ls -> Listar as bucket que tenho criado
+aws [servico] help -> Tras uma ajuda com relação aquele comando do serviço
+aws iam list-users -> Lista todos seus usuários
+aws s3 cp --recursive s3://[bucket-origem] s3://[bucket-destino] -> Realiza a copia de todos os arquivos de uma bucket para outra
+
+
